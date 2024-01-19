@@ -5,3 +5,4 @@
 - 🌱 I’m currently learning more ML libraries, data visualization, among others.
 - 💞️ I’m looking to collaborate on business analytics, finance, sports analytics projects
 - 📫 How to reach me: cmateosp11@gmail.com.  LinkedIn: Carlos Mateos Pérez
+- 🌍 I'm actually located in Rennes, France but habitually in Mexico City, Mexico
